@@ -1,0 +1,4 @@
+models:
+  - name: user_product_orders
+  - name: product_summaries
+  - name: user_summaries
